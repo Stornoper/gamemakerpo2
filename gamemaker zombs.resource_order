@@ -34,6 +34,7 @@
     {"name":"spr_block_vault_transparant","order":3,"path":"sprites/spr_block_vault_transparant/spr_block_vault_transparant.yy",},
     {"name":"spr_slots_","order":2,"path":"sprites/spr_slots_/spr_slots_.yy",},
     {"name":"obj_block_vault","order":3,"path":"objects/obj_block_vault/obj_block_vault.yy",},
+    {"name":"spr_slots_normal","order":3,"path":"sprites/spr_slots_normal/spr_slots_normal.yy",},
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"spr_collission_check_invis","order":12,"path":"sprites/spr_collission_check_invis/spr_collission_check_invis.yy",},
     {"name":"obj_collission","order":9,"path":"objects/obj_collission/obj_collission.yy",},

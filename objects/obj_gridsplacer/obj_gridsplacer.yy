@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_slots",
-    "path": "sprites/spr_slots/spr_slots.yy",
+    "name": "spr_slots_buildmode",
+    "path": "sprites/spr_slots_buildmode/spr_slots_buildmode.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -3,7 +3,7 @@ function buildFunction()
 	x = round(mouse_x/32)*32;
 	y = round(mouse_y/32)*32;
 
-	if mouse_check_button_pressed(mb_left) && !place_meeting(x, y, obj_collission) && !place_meeting(x, y, obj_player)
+	if mouse_check_button_pressed(mb_left) && !place_meeting(x, y, obj_collission) && !place_meeting(x, y, obj_player) && objCount < objLimit
 	{
 		instance_create_layer(x,y, "Buildables", block);
 		instance_create_layer(x,y, "Buildables", obj_collission);
